@@ -37,7 +37,7 @@ struct group{
     char gname[10];
 }g[20];
 /**
- * @brief Structures that stores the name of a group
+ * @brief Structure that stores the name of a group
  * 
  */
 void readgroup();

@@ -2,7 +2,7 @@
 ## Table no: High level test plan
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01|Display of Menu| None | "Menu(1).Tic Tac Toe(2).player 1 (X) player 2 (O)(3)board(4)player 1 or 2(alternate fashion)Enter the choice | PASS | Scenario|
+|  H_01|Display of Menu| None | "Menu Enter your choice--1.to enter new contact  2.to delete  3.to sort by group  4.display  5.to enter new group 0.to Exit  | PASS | Scenario|
 |  H_02|Initiation of the game |The assigned player must first choose the position to place his symbol | The Board gets updated and asks for next person to provide input| PASS | Requirement based |
 |  H_03|Show Board | Updates the marks on the board| 2.Displays the progress of the game |SUCCESS|Requirement based |
 

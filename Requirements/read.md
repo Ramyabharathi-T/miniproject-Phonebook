@@ -86,4 +86,5 @@ The looking facility permits you to search for a contact by name. you’ll be ab
 
 ## SWOT Analysis
 
-![IC-Career-Change-SWOT-Analysis_PowerPoint-8629](https://user-images.githubusercontent.com/69079580/115004825-dccaf800-9ec4-11eb-973f-2ab66c7b35fb.jpg)
+![image](https://user-images.githubusercontent.com/69079580/115006461-8959a980-9ec6-11eb-912d-89c8910cf12e.png)
+

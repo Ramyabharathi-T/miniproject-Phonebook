@@ -1,3 +1,4 @@
+
 # Requirements
 ## Introduction 
 The phonebook application works specifically for tracking people. 
@@ -64,3 +65,16 @@ The looking facility permits you to search for a contact by name. you’ll be ab
  
 
 
+![5](https://user-images.githubusercontent.com/69079580/115001029-f1a58c80-9ec0-11eb-8484-38a6845dd511.gif)
+
+
+![4](https://user-images.githubusercontent.com/69079580/115001038-f4a07d00-9ec0-11eb-87d3-369d36c4a474.gif)
+
+
+![3](https://user-images.githubusercontent.com/69079580/115001046-f5391380-9ec0-11eb-98f3-91b515d962a6.gif)
+
+
+![2](https://user-images.githubusercontent.com/69079580/115001049-f66a4080-9ec0-11eb-8a1b-65d6f5596886.gif)
+
+
+![1](https://user-images.githubusercontent.com/69079580/115001051-f702d700-9ec0-11eb-9301-91c2a07a69b0.gif)

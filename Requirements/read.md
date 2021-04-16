@@ -88,3 +88,21 @@ The looking facility permits you to search for a contact by name. you’ll be ab
 
 ![image](https://user-images.githubusercontent.com/69079580/115006461-8959a980-9ec6-11eb-912d-89c8910cf12e.png)
 
+# 4W's and 1'H
+# WHO:
+People who are in need of a mobile  number of the services or a particular organization or person as per their needs  within a geographical area.
+
+# WHAT:
+A book that lists the names, addresses, and phone numbers of the people and businesses in a certain area.
+
+# WHEN:
+When a person is in need of a number in that particular geographical area.
+
+# WHERE:
+Telephone directories can be published in hard copy or in electronic form. In the latter case, the directory can be used provided as an online service through proprietary terminals or over the Internet, or on physical media such as CD-ROM
+# HOW:
+Look over the table of contents to see how the book is organized. 
+Discuss each of the major sections of the phone book and explain their purpose.
+Discuss the meaning of the digits in the phone number, such as the area code, the prefix, and the line number.
+
+

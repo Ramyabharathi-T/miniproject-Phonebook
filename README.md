@@ -1,5 +1,5 @@
-# miniproject-Phonebook
-## *The phonebook ia a simple apllication coded using c language.
+# Miniproject-Phonebook
+## The phonebook ia a simple apllication coded using c language.
 ## The Phonebook application contains a set of basic functions for 
     adding 
     searching

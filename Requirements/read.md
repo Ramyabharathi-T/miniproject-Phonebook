@@ -23,13 +23,32 @@ Adding new entries, browsing them, editing and updating, searching for saved con
 
 
 When you add anything to your phone book, you will be asked for personal information such as
-    name
-    gender
-    first name
-    phone number
-    nationality
-    email address
+    name,
+    gender,
+    first name,
+    phone number,
+    nationality,
+    email address,
     address. 
 
 You can then edit, view, search, and delete this text.
 
+
+### Show Contact Details: 
+You will see the list of the names together with their phone numbers victimisation this feature. This feature shows you the contact list. All the contacts square measure shown one by one in a very list.
+
+### Add contacts: 
+This feature permits you to feature a replacement contact to the contacts-list of the telephone book application. Adding new contacts is incredibly simple. you only got to enter the contact’s name and signal. A message are going to be shown upon productive addition of any contacts.
+
+
+### Validations:
+This feature ensures that you simply build solely the valid entries. It doesn’t permit you to feature contact with propaganda. for instance, you can’t add a mobile variety of one hundred digits.
+
+### Edit contacts:
+The existing contacts will be altered victimisation this feature. you’ll be able to edit the present contacts and save them to the contacts-list.
+
+### Deleting contacts:
+Contacts will be deleted from the contacts-list. you’ll be able to delete a contact from the most menu.
+
+### Search contacts:
+The looking facility permits you to search for a contact by name. you’ll be able to search a contact by coming into the contact’s name. If the contact isn’t found, the associate degree acceptable message is shown.

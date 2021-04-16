@@ -2,8 +2,8 @@
 # SDLC Activity Based Learning
 Build | Code Quality | Unity | Git Inspector
 |---------|------------|-----------|----------------
-[![C/C++ CI - Build Status](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/build.yml/badge.svg)](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/build.yml)|[![Code Quality - Static Code - Cppcheck]
-(https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/CodeQuality_Dynamic.yml)[![CI-Coverage](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/gcov.yml/badge.svg)](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/gcov.yml)| [![Unit Testing - Unity](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/unity.yml/badge.svg)](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/gitinspector.yml)
+[![C/C++ CI - Build Status](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/build.yml/badge.svg)]
+(https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/build.yml)|[![Code Quality - Static Code - Cppcheck]
 ## This phonebook is a simple application coded using c language.
 ## This Phonebook application contains a set of basic functions for 
     adding 

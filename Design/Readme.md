@@ -1,6 +1,8 @@
 # Design
 
 ## Flowchart
+This flowchart helps to understand the flow of the project- Phonebook.
+
 ![image](https://user-images.githubusercontent.com/69079580/114984695-9dde7780-9eaf-11eb-8034-5de5e17db496.png)
 
 ![image](https://user-images.githubusercontent.com/69079580/114984813-ba7aaf80-9eaf-11eb-973c-eea54a6b5126.png)

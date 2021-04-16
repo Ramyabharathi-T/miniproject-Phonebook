@@ -1,9 +1,4 @@
 # Miniproject-Phonebook
-# SDLC Activity Based Learning
-Build | Code Quality | Unity | Git Inspector
-|---------|------------|-----------|----------------
-[![C/C++ CI - Build Status](https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/build.yml/badge.svg)]
-(https://github.com/Ramyabharathi-T/MiniProject-Phonebook/actions/workflows/build.yml)|[![Code Quality - Static Code - Cppcheck]
 ## This phonebook is a simple application coded using c language.
 ## This Phonebook application contains a set of basic functions for 
     adding 

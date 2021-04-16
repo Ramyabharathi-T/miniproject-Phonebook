@@ -82,3 +82,8 @@ The looking facility permits you to search for a contact by name. you’ll be ab
 
 
 ![1](https://user-images.githubusercontent.com/69079580/115001051-f702d700-9ec0-11eb-9301-91c2a07a69b0.gif)
+
+
+## SWOT Analysis
+
+![IC-Career-Change-SWOT-Analysis_PowerPoint-8629](https://user-images.githubusercontent.com/69079580/115004825-dccaf800-9ec4-11eb-973f-2ab66c7b35fb.jpg)

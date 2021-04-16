@@ -52,3 +52,15 @@ Contacts will be deleted from the contacts-list. you’ll be able to delete a co
 
 ### Search contacts:
 The looking facility permits you to search for a contact by name. you’ll be able to search a contact by coming into the contact’s name. If the contact isn’t found, the associate degree acceptable message is shown.
+
+## Motivation of the project
+
+
+ #### Less human error
+ #### High security
+ #### Easy to handle
+ #### Easy record keeping
+ #### Easy data updating
+ 
+
+
